@@ -1,0 +1,8 @@
+Public class VoarComAsas : Voo
+{
+    public override void voar()
+    {
+        Console.WriteLine("Voar com Asas");
+
+    }   
+}

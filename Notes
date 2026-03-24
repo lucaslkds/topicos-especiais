@@ -34,7 +34,24 @@ padrão Extract de solução
 A gangue dos 4
 livro
 
+// https://code.visualstudio.com/docs/csharp/get-started
 
+.\aluno
+Positivo@2026
+
+Public abstract class Animal
+// abstract cant be estanciado, não entre no software somente é usado como referencia.
+Também permite definir um codigo para todos e um código abstract para ser override nas classes que precisa de algo especifico
+
+interface
+abstract
+override
+Herança
+
+Trabalho
+classe personagem
+3 subclassses
+controle de batalha
 
 
 

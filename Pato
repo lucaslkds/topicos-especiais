@@ -1,0 +1,15 @@
+Public Class Pato
+{
+// puxa a interface voo e ela quem controla como "voar"
+    Voo mododeVoo;
+
+
+    Public void efetuarVoo()
+    {
+
+
+        this.mododeVoo.voar();
+    }
+
+
+} 
