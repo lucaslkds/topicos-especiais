@@ -74,7 +74,37 @@ so two players will not be able to
 
 API que vai enviar informações e salvar como .json
 
+A2 - 
+1 - Backend - Validar as regras de negocio - 3 formas de implementação, calcular os Modicadores, ponto extra se criar interações entre as raças, regra de luta 
+2 - persistencia - salvar os dados/personagens usando Entity Manager
+3 - Frontend - com tudo funcionando
 
+classe
+Raça - escolher de classes disponiveis
+
+
+3 formas
+
+1 modo
+
+Força é 3 vezes um dado de 6 lados
+3d6 para todos os atributos
+PV vem da constituição
+
+2 modo
+
+vc joga os d6, mas vc escolher onde cada valor vai
+se preocupar em como vai funcionar no front
+
+3 modp
+
+4 d6 para cada um
+menor valor dos 4ds vai ser excluido
+
+Modicadores
+
+preferia de fazer no visual studio
+colocar no git hub
 
 
 
